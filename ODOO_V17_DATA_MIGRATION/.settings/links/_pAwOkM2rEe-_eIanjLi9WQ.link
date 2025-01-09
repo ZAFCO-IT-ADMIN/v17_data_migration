@@ -1,0 +1,29 @@
+{
+  "itemId" : "_pAwOkM2rEe-_eIanjLi9WQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Jg0ngM2sEe-_eIanjLi9WQ",
+    "parameterList" : [ {
+      "id" : "_JhBb0M2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Database"
+    }, {
+      "id" : "_JhBb0c2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_AdditionalParams"
+    }, {
+      "id" : "_JhBb0s2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Schema"
+    }, {
+      "id" : "_JhBb082sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Password"
+    }, {
+      "id" : "_JhBb1M2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Login"
+    }, {
+      "id" : "_JhBb1c2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Port"
+    }, {
+      "id" : "_JhBb1s2sEe-_eIanjLi9WQ",
+      "name" : "Odoo_Local_v14_Server"
+    } ]
+  } ]
+}

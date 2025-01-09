@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lIw8UMzaEe-0BILwL0kN2g" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_lIw8UczaEe-0BILwL0kN2g" comment="" name="source_url" prompt="source_url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8UszaEe-0BILwL0kN2g" comment="" name="destination_url" prompt="destination_url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8U8zaEe-0BILwL0kN2g" comment="" name="source_db" prompt="source_db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8VMzaEe-0BILwL0kN2g" comment="" name="source_db_u" prompt="source_db_u?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8VczaEe-0BILwL0kN2g" comment="" name="source_db_p" prompt="source_db_p?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8VszaEe-0BILwL0kN2g" comment="" name="dest_db_u" prompt="dest_db_u?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_lIw8V8zaEe-0BILwL0kN2g" comment="" name="dest_db_pass" prompt="dest_db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

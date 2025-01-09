@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_qUjAMM5EEe-_eIanjLi9WQ" name="Odoo_Local_v17" id="_j_woYM5EEe-_eIanjLi9WQ" label="Odoo_Local_v17" dataPackage="_qVGZ0M5EEe-_eIanjLi9WQ" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/odoov17_staging1?" dbVersionString="V9_X" Port="5432" Username="odoov17" Password="enc:system.encryption.key.v1:VnVS7l66EXWydE9bvWjcOjF3/UxzoyVekNZmn8wQ7TR/KqJ3" ServerName="localhost" DatasourceName="" FileFieldName="" SID="odoov17_staging1" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public" supportNLS="false">
+    <taggedValue xmi:id="_qUjAMc5EEe-_eIanjLi9WQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_qUnRoM5EEe-_eIanjLi9WQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_qUnRoc5EEe-_eIanjLi9WQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_qUn4sM5EEe-_eIanjLi9WQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_qUn4sc5EEe-_eIanjLi9WQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_qUn4ss5EEe-_eIanjLi9WQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_qUn4s85EEe-_eIanjLi9WQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_qUn4tM5EEe-_eIanjLi9WQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_qU9P4M5EEe-_eIanjLi9WQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_qU9P4c5EEe-_eIanjLi9WQ" tag="DB ProductVersion" value="17.2 (Postgres.app)"/>
+    <taggedValue xmi:id="_qU9P4s5EEe-_eIanjLi9WQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_qUjAMs5EEe-_eIanjLi9WQ" key="CONN_PARA_KEY_USERNAME" value="odoov17"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_qVGZ0M5EEe-_eIanjLi9WQ" name="odoov17_staging1" dataManager="_qUjAMM5EEe-_eIanjLi9WQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_qVGZ0c5EEe-_eIanjLi9WQ" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
