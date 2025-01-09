@@ -1,0 +1,5 @@
+PROJECT_GROUPID=org.example.odoo_v17_data_migration
+PROJECT_VERSION=8.0.1
+PUBLISH_AS_SNAPSHOT=true
+SKIP_LOOP_DEPENDENCY_CHECK=true
+eclipse.preferences.version=1
