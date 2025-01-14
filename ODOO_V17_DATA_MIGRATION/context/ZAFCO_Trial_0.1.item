@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_i1GB4ND-Ee-TFaqMdLTpsQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_i1Go8ND-Ee-TFaqMdLTpsQ" comment="" name="Source_Database" prompt="Source_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="odoov14_production"/>
+  <contextParameter xmi:id="_i1Go8dD-Ee-TFaqMdLTpsQ" comment="" name="Source_Host" prompt="Source_Host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_i1Go8tD-Ee-TFaqMdLTpsQ" comment="" name="Source_UserName" prompt="Source_UserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="odoov14"/>
+  <contextParameter xmi:id="_i1Go89D-Ee-TFaqMdLTpsQ" comment="" name="Source_Password" prompt="Source_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_i1Go9ND-Ee-TFaqMdLTpsQ" comment="" name="Dest_Database" prompt="Dest_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="odoov17_staging1"/>
+  <contextParameter xmi:id="_i1Go9dD-Ee-TFaqMdLTpsQ" comment="" name="Dest_Host" prompt="Dest_Host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_i1Go9tD-Ee-TFaqMdLTpsQ" comment="" name="Dest_UserName" prompt="Dest_UserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="odoov17"/>
+  <contextParameter xmi:id="_i1Go99D-Ee-TFaqMdLTpsQ" comment="" name="Dest_Password" prompt="Dest_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_i1Go-ND-Ee-TFaqMdLTpsQ" comment="" name="Source_Port" prompt="Source_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_i1Go-dD-Ee-TFaqMdLTpsQ" comment="" name="Dest_Port" prompt="Dest_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+</talendfile:ContextType>
